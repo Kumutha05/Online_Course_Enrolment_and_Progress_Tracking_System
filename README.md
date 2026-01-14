@@ -1,4 +1,4 @@
-# Online Course Tracking System
+# Online Course Enrolment and Progress Tracking System
 
 ## Project Overview
 This project is an Online Course Tracking System implemented using MySQL / SQL.  
@@ -38,7 +38,7 @@ It allows administrators and instructors to manage courses, enroll students, and
 
 ## Project Structure
 
-Online-Course-Tracking-System/
+Online-Course-Enrolment-and-Progress-Tracking-System/
 │
 ├── sql/
 │ ├── schema_data.sql # Table creation and sample data
